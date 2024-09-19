@@ -1,0 +1,1 @@
+🖐️ Develop an accurate hand gesture recognition model for seamless human-computer interaction and gesture-based control systems. Classify diverse hand gestures from image or video data. Enhance the future of intuitive interfaces! Dataset: https://www.kaggle.com/datasets/gti-upm/leapgestrecog
