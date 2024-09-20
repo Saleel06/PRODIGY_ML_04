@@ -11,25 +11,12 @@ This project is part of Task 4 of my internship at Prodigy Infotech. The aim is 
 - **Model:** Custom architecture designed to classify hand gestures effectively.
 
 ## Table of Contents
-1. [Installation](#installation)
-2. [Usage](#usage)
-3. [Model Architecture](#model-architecture)
-4. [Contributors](#contributors)
-5. [License](#license)
+ [Usage](#usage)
+ [Model Architecture](#model-architecture)
+ [Contributors](#contributors)
+ [License](#license)
 
-## Installation
-1. Clone the repository:
-    ```bash
-    git clone https://github.com/YourUsername/PRODIGY_Task4_HandGestureRecognition.git
-    ```
-2. Navigate to the project directory:
-    ```bash
-    cd PRODIGY_Task4_HandGestureRecognition
-    ```
-3. Install the required packages:
-    ```bash
-    pip install -r requirements.txt
-    ```
+
 
 ## Usage
 1. **Load the Model:**
@@ -54,5 +41,5 @@ The model consists of:
 - **Saleel**, Machine Learning Intern at Prodigy Infotech
 
 ## License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License - see the [LICENSE](LICENSE.txt) file for details.
 
